@@ -1,0 +1,12 @@
+{
+  "name": "project-1-upvote",
+  "version": "1.0.0",
+  "description": "Fullstack Vue Chapter 1 - UpVote! voting feed with reactive sorting",
+  "scripts": {
+    "start": "serve .",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
